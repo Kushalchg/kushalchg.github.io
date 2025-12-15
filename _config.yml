@@ -26,7 +26,7 @@ twitter_username: chapagainkushal
 github_username: kushalchg 
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
