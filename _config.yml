@@ -18,17 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Kushal"
+title: "Internet home"
 email: chapagainkushal74@gmail.com 
 description: "Portfolio website with blogs, projects, and materials"
 url: "https://kushalchg.github.io"  # your GitHub Pages URL
 twitter_username: chapagainkushal 
 github_username: kushalchg 
+linkedin_username: kushal-chapagain-1aa66419a/
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Collections (custom content)
 collections:
@@ -42,11 +44,6 @@ defaults:
       type: "posts"
     values:
       layout: post
-  - scope:
-      path: "_projects"
-      type: "projects"
-    values:
-      layout: project
 
 # Exclude from processing.
 # The following items will not be processed, by default.
