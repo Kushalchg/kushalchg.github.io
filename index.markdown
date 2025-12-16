@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "My Internet Home"
-description: "Personal website of kushal chapagain - mobile app developer and web developer form Nepal"
+description: "Personal website of kushal chapagain - mobile app developer form Nepal"
 ---
 
 This is kushal's actual home on internet. Believe me I know  javascript ,react
