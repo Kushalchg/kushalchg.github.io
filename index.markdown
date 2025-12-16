@@ -1,11 +1,10 @@
 ---
 layout: home
-title: "My Internet Home"
 description: "Personal website of kushal chapagain - mobile app developer form Nepal"
 ---
 
-This is kushal's actual home on internet. Believe me I know  javascript ,react
-and can design and build better site than this but using react ...oh that's too much maintenance.
+This is kushal's actual home on internet. Believe me I know  javascript, react
+and can design and build better site than this, but using react for portfolio ...oh that's too much maintenance.
 
 I know you are special (you visited this site), since you already here you can checkout my other works. 
 
