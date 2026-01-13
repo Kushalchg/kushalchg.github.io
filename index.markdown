@@ -17,7 +17,7 @@ I know you are special (you visited this site), since you already here you can c
 -   [react-native-nepali-picker](https://www.npmjs.com/package/react-native-nepali-picker) - *A simple, customizable and modern Nepali date picker for React Native applications.*
 
 
-If you feel this is too basic website, checkout [kushalchapagain.com.np](https://kushalchapagain.com.np) which is also simple but build with (next.js and tailwindcss).
+If you want, you can checkout my other portfolio which I stopped maintaining [kushalchapagain.com.np](https://kushalchapagain.com.np) ,which is also not that great but built with next.js and tailwindcss and have some colors.
 
 
 

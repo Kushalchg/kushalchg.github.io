@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Internet home"
+title: "Kushal Chapagain"
 email: chapagainkushal74@gmail.com 
 description: "Personal site - here i will share whatever i like, can't say exactly what (possibilly realated to software and tech)" # a short description of your site
 url: "https://kushalchg.github.io"  # your GitHub Pages URL
