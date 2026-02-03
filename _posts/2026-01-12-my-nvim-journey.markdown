@@ -2,7 +2,7 @@
 layout: post
 title:  "My neovim journey and how do I use in 2026"
 date:   2026-01-12 12:42:13 +0545
-categories: jekyll update 
+categories: blog 
 ---
 
 In this blog I am going to share my vim/neovim journey and how I am using in 2026,
