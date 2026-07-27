@@ -20,7 +20,7 @@ the way otherwise don't even start` so i kept going.
 --- 
 
 I receltly launched
-[openpte-beta](https://openpte.com) with the `reading`, `writing` and some of `speaking` questions and user can practice but the project is far from complete.
+[openpte-beta](https://openpte.com/?utm_source=blog) with the `reading`, `writing` and some of `speaking` questions and user can practice but the project is far from complete.
 The project becomming more and more complex and feature-rich then I imagined
 when I started building and I think this is the same for others (at least I like
 to think like this). Since the beta launch, platform normally gets 3-4 signups in a day
