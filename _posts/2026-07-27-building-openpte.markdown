@@ -5,7 +5,7 @@ date:   2026-07-27 12:42:13 +0545
 categories: blog 
 ---
 
-To be honest The main reason I'm building Openpte is FOMO in the AI era. But
+To be honest The main reason I started building Openpte is FOMO in the AI era. But
 I just don't want to build slop that nobody uses(I already have many) so
 lets build something useful for people, something that is already in market and
 people are using, and also something people can put money on so started
