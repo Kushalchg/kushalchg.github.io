@@ -4,6 +4,8 @@ title:  "Building Openpte - Week 0"
 date:   2026-07-27 12:42:13 +0545
 categories: blog 
 ---
+![Openpte Homescreen](/assets/images/openpte-home.png)
+
 
 To be honest The main reason I started building Openpte is FOMO in this AI era. But
 I just don't want to build slop that nobody uses(I already have many) so
