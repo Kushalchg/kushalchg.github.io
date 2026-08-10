@@ -3,7 +3,7 @@ layout: home
 description: "Personal website of kushal chapagain - mobile app developer form Nepal"
 ---
 
-Hello I am Kushal Chapagain Developer form Nepal, here are the some projects
+Hello I am Kushal Chapagain Developer from Nepal, here are the some projects
 that I have worked on (other than weekends AI slops).
 
 -   [Openpte.com](https://openpte.com/?utm_source=blog) - **(Actively Building)** *PTE(Pearson Test of English) preparation platform with the AI. User can practice with AI and get instant feedback with convertational AI where users can chat about the question and their submissions with the AI(llms).*
